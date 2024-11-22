@@ -1,0 +1,23 @@
+header {
+    background-color: azure;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    /*justify-content: space-between;*/
+    justify-content: space-evenly;
+}
+
+img {
+    width: 130px;
+    height: 150px;
+    border: 1px solid;
+}
+
+footer {
+    font-size: small;
+    text-align: center;
+    margin-top: 50px;
+
+}
